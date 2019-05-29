@@ -1,0 +1,164 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    border: 0;
+}
+
+ul,ol{
+    list-style-type: none;
+}
+
+body{
+    background-image: url(../images/other/back.jpg);
+}
+
+body,p{
+    font: 12px/1 "\u5b8b\u4f53", Tahoma, Geneva, sans-serif;
+    color: #333;
+    font-family: "Microsoft YaHei";
+    font-family: "SimSun";
+    line-height: 2;
+}
+
+h1{
+    font-size: 2em;
+}
+
+a{
+    color: #333;
+    text-decoration: none;
+}
+
+a:hover{
+    color: red;
+}
+
+a.button:hover{
+    background-color: #CFCFCF;
+}
+
+.nav{
+    margin: 0 auto;
+}
+
+.wrapper{
+    width: 100%;
+    margin: 0 auto;
+}
+
+.wrapper .inner{
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.clear{
+    width: 100%;
+    height: 0;
+    overflow: hidden;
+    clear: both;
+}
+
+#top{
+    background-image: url(../images/other/wall.png);
+    height: 140px;
+}
+
+#top-1{
+    width: 1000px;
+    padding: 10px 2px 0px 2px;
+    float: left;
+}
+
+#house{
+    float: right;
+}
+
+nav.wrapper{
+    background-color: #707070;
+    height: 50px;
+}
+
+#elixirs-1{
+    width: 240px;
+    height: 510px;
+    padding: 0px 10px 20px 10px;
+    text-align: center;
+    background-image: url("../images/other/music.png");
+    line-height: 3;
+    float: left;
+    position: fixed;
+	top: 140px;
+    left: 0px;
+}
+
+#box-1{
+    width: 200px;
+    margin: 0px 19px;
+
+}
+
+#top-2{
+    margin: 45px 33px 0px 33px;
+    width: 140px;
+}
+
+#bottom-1{
+    margin-bottom: 65px;
+}
+
+#inf{
+    width: 150px;
+    height: 150px;
+    padding-right: 8px;
+    padding-top: 25px;
+}
+
+#mpng{
+    float: right;
+    margin-top: 20px;
+}
+
+#middle-1{
+    margin: 0px 50px;
+    width: 110px;
+}
+
+#middle-2{
+    margin: 0px 45px;
+    width: 125px;
+}
+
+.mpng{
+    float: right;
+    margin-top: 10px;
+}
+
+.nav .nav-item{
+    display: inline;
+}
+
+.nav .nav-item a{
+    display: block;
+    float: left;
+    font: 18px/50px "Microsoft YaHei"; 
+    color: #fff;
+    padding: 0 30px;
+    height: 50px;
+}
+
+#spng{
+    margin-right: 20px;
+    float: right;
+}
+
+.spng{
+    padding: 8px 5px;
+}
+
+#container-1{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}

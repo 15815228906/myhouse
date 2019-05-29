@@ -1,0 +1,43 @@
+table{
+    border: solid #fff;
+    border-width: 1px 0px 1px 0px;
+    background: #f1efe3;
+    text-align: center;
+}
+
+th{
+    font-size: 16px;
+    background-color: #CDC673;
+}
+
+td{
+    border: solid #fff;
+    border-width: 0px 1px 1px 0px;
+    padding: 2px 10px;
+}
+
+#con-1{
+    width: 1000px;
+    height: 1300px;
+    background-color: #FDF5E6;
+    align-items: center;  
+}
+
+#con-2{
+    width: 1000px;
+    height: 840px;
+    background-color: #FDF5E6;
+    align-items: center;  
+    margin-top: 30px;
+}
+
+.td{
+    padding: 0px;
+}
+
+caption{
+    font-weight: bold;
+    font-size: 28px;
+    color: #4A708B;
+    padding-bottom: 15px;
+}

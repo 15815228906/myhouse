@@ -1,0 +1,13 @@
+#container-1 .inner #con-1{
+    width: 362px;
+    height: 503px;
+    background-color: #FFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 320px;  
+}
+
+.png{
+    border: dotted #87CEFA;
+}
